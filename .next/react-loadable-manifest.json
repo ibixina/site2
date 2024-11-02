@@ -1,0 +1,8 @@
+{
+  "app/page.tsx -> ../components/GameOfLife": {
+    "id": "app/page.tsx -> ../components/GameOfLife",
+    "files": [
+      "static/chunks/_app-pages-browser_components_GameOfLife_tsx.js"
+    ]
+  }
+}
